@@ -1,0 +1,58 @@
+
+*:focus {
+  outline: 4px dotted #ff7500;
+
+}
+
+/* header start  */
+
+.navbar {
+  border-top: 4px solid #ff7500;
+}
+.navbar-brand {
+  transition: opacity 0.5s ease;
+}
+
+.navbar-brand:hover {
+  opacity: 0.8;
+}
+.navbar .container .navbar-nav .nav-item .nav-link {
+  margin-left: 1rem;
+  padding: 4px;
+  transition: color 0.5s ease;
+  color: black;
+}
+
+.navbar .container .navbar-nav .nav-item .nav-link:hover {
+  color: #ff7500;
+}
+
+.navbar .container .navbar-nav  .main-link {
+ border-bottom: 3px solid #ff7500;
+ padding: 5px;
+ font-size: 18px;
+}
+
+
+.nav-button{
+  background-color: #ff7500;
+  padding: 7px 18px;
+  color: white;
+  transition: opacity 0.5s ease;
+}
+
+.nav-button:hover {
+  opacity: 0.8;
+}
+
+/* header end  */
+
+
+/* main start  */
+
+/* home start  */
+
+.home {
+  background-color: #252420;
+  color: white;
+}
