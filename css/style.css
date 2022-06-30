@@ -226,10 +226,9 @@ footer .container .logo-social-logoes .social-logoes ul li a svg:hover {
 
 .links ul li a:hover {
   color: #ff7500;
-  opacity: 0.3;
  
 }
 
 .links ul li a:focus {
-  opacity: 0.3;
+  opacity: 0.8;
 }
